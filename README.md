@@ -1,4 +1,4 @@
-# This will allow you to automatically set the priority to "High" for call of duty black ops: cold war as soon as you launch the game on PC.
+### This will allow you to automatically set the priority to "High" for call of duty black ops: cold war as soon as you launch the game on PC.
 
 * 1.) Copy the StartScriptBOCW.ps1 file included in this repository somewhere on your computer.
 
