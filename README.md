@@ -1,4 +1,4 @@
-##### This will allow you to automatically set the priority to "High" for call of duty black ops: cold war as soon as you launch the game on PC. This job will continue to run and adjust the priority of call of duty black ops: cold war even if you close the game, and re-open it at a later time so you don't have to worry about manually setting the priority yourself.
+##### This will allow you to automatically set the priority to "High" for call of duty black ops: cold war as soon as you launch the game on PC. This job will continue to run and adjust the priority of call of duty black ops: cold war even if you close the game, and re-open it at a later time so you don't have to worry about manually setting the priority yourself. You only need to run this one time, then it will work everytime you start your PC.
 
 * 1.) Copy the StartScriptBOCW.ps1 file included in this repository somewhere on your computer.
 
